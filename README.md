@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Not Available Yet]
 
-- 📝 I regularly write articles on [fourheadfox.wordpress.com](fourheadfox.wordpress.com)
+- 📝 I regularly write articles on [fourheadfox.wordpress.com](fourheadfox.wordpress.com(inactive))
 
 - 💬 Ask me about **Flutter Framework,Dart,Firebase,Python,Html,css,javascript,**
 
