@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [Not Available Yet]
 
-- 📝 I regularly write articles on [fourheadfox Blog"inactive now"](https://fourheadfox.wordpress.com/)
+- 📝 I regularly write articles(article will published soon) on [FourHeadFox Blog](https://fourheadfox.wordpress.com/)
 
-- 💬 Ask me about **Flutter Framework,Dart,Firebase,Python,Html,css,javascript,**
+- 💬 Ask me about **Flutter Framework,Dart,Firebase,Python,Html,css,javascript**
 
 - 📫 How to reach me **shuptorahman2019@gmail.com**
 
-- ⚡ Fun fact **I am a Civil Engineer.And I can make 2D plan,3D model of your building**
+- ⚡ Fun fact **I am a Civil Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
